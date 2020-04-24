@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Covid Health Services Delhi</name>
+    <description>Covid related heath services established by the Delhi Government</description>
+    <NetworkLink>
+      <name>Covid Health Services Delhi</name>
+      <Link>
+        <href><![CDATA[https://www.google.co.in/maps/d/u/0/kml?forcekml=1&mid=1yxvXy78wkNoYdtKHYDCPu0lcFfgqB0yq]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

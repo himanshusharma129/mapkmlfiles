@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Temp Stay Centers Delhi</name>
+    <NetworkLink>
+      <name>Zoom and click a pin to find Shelters</name>
+      <Link>
+        <href><![CDATA[https://www.google.co.in/maps/d/u/0/kml?forcekml=1&mid=1Bb7-aFko_z2RVe_1feVbSFvTK_ucVHyY&lid=UgrNK_hIrD8]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

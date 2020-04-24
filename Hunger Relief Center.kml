@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hunger Relief Center</name>
+    <NetworkLink>
+      <name>Zoom and click a pin to find Hunger Relief Center</name>
+      <Link>
+        <href><![CDATA[https://www.google.co.in/maps/d/u/0/kml?forcekml=1&mid=1iyesu48igcUWqkPS7J3TKMO_fGSqDvjU&lid=USJNAeVFQKU]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
